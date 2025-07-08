@@ -121,7 +121,6 @@ coverage
 # Strapi
 ############################
 
-.env
 license.txt
 exports
 .strapi
@@ -131,3 +130,4 @@ build
 .strapi-cloud.json
 
 package-lock.json
+config.bat
